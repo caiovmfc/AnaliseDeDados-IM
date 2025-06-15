@@ -3,7 +3,7 @@
 Este notebook (analisededados-cvmfc.ipynb) foi desenvolvido inteiramente na plataforma Kaggle.
 
 # Como testar / executar
-Se você quiser rodar o notebook por conta própria, basta:
+É possível visualizar o .ipynb diretamente pelo GitHub. Mas, se você quiser rodar o notebook por conta própria, basta:
 
 1. Fazer o upload do notebook (analisededados-cvmfc.ipynb) para o Kaggle.
 
